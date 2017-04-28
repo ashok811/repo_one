@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 sjndnjwefwefrferwfrf
 
 werfwefw
@@ -30,132 +31,149 @@ wefwefwf
 
 cndwck;md;clkmcLine 2
 
+=======
+>>>>>>> parent of d2e0425... commit from cloud
 I am chaning line 1
 
-It‚Äôs 2013, and there‚Äôs no way around it: you need to learn how to use GitHub. 
+Itís 2013, and thereís no way around it: you need to learn how to use GitHub. 
 
-Why? Because it‚Äôs a social network that has completely changed the way we work. Having started as a developer‚Äôs collaborative platform, GitHub is now the largest online storage space of collaborative works that exists in the world. Whether you‚Äôre interested in participating in this global mind meld or in researching this massive file dump of human knowledge, you need to be here. 
+Why? Because itís a social network that has completely changed the way we work. Having started as a developerís collaborative platform, GitHub is now the largest online storage space of collaborative works that exists in the world. Whether youíre interested in participating in this global mind meld or in researching this massive file dump of human knowledge, you need to be here. 
 
-See also: Gi
+See also: GitHub For Beginners: Commit, Push And Go
+
+Simply by being a member, you can brush elbows with the likes of Google and Facebook. Before GitHub existed, major companies created their knowledge mainly in private. But when you access their GitHub accounts, youíre free to download, study, and build upon anything they add to the network. So what are you waiting for?
+
+Looking For GitHub Answers
+As embarrassing as it is to admit, this tutorial came into being because all of the ìGitHub for Beginnersî articles I read were way over my head. Thatís probably because I donít have a strong programming background, like most GitHub users. I couldnít identify with the way most tutorials suggest using GitHub, as a showcase for my programming work.
+
+See also: Githubís Tom Preston-Werner: How We Went Mainstream
+
+What you might not know is that there are plenty of reasons to use GitHub if youíre not a programmer. According to GitHubís educational videos, any knowledge worker can benefit, with ìknowledge workerî defined as most any profession that makes use of a computer.
+
+If youíve given up on understanding how to use GitHub, this article is for you.
+
+One of the main misconceptions about GitHub is that itís a development tool, as much a part of coding as computer languages and compilers. However, GitHub itself isnít much more than a social network like Facebook or Flickr. You build a profile, upload projects to share and connect with other users by ìfollowingî their accounts. And while many users store programs and code projects, thereís nothing preventing you from keeping text documents or other file types in your project folders to show off.
+
+
 The author's GitHub page.
-You may already have a dozen other social media accounts, but here‚Äôs why you should be on GitHub anyway: it‚Äôs got the best Terms of Service agreement out of the bunch. If you check out Section F of the terms, you‚Äôll see that GitHub does everything in its power to ensure that you retain total ownership of any projects you upload to the site:
+You may already have a dozen other social media accounts, but hereís why you should be on GitHub anyway: itís got the best Terms of Service agreement out of the bunch. If you check out Section F of the terms, youíll see that GitHub does everything in its power to ensure that you retain total ownership of any projects you upload to the site:
 
-‚ÄúWe claim no intellectual property rights over the material you provide to the Service. Your profile and materials uploaded remain yours.‚Äù
+ìWe claim no intellectual property rights over the material you provide to the Service. Your profile and materials uploaded remain yours.î
 
-What‚Äôs more, you can actually use GitHub without knowing ANY code at all. You don‚Äôt really need a tutorial to sign up and click around. But I do think that there‚Äôs merit to learning things the hard way first, by which I mean, with plain old coding in Git. After all, GitHub just happens to be one of the most effortless graphical interfaces for the Git programming language.
+Whatís more, you can actually use GitHub without knowing ANY code at all. You donít really need a tutorial to sign up and click around. But I do think that thereís merit to learning things the hard way first, by which I mean, with plain old coding in Git. After all, GitHub just happens to be one of the most effortless graphical interfaces for the Git programming language.
 
 What Is Git?
-Thank famed software developer Linus Torvalds for Git, the software that runs at the heart of GitHub. (And while you‚Äôre at it, go ahead thank him for the Linux operating system, too.) Git is version control software, which means it manages changes to a project without overwriting any part of that project. And it‚Äôs not going away anytime soon, particularly since Torvalds and his fellow kernel developers employ Git to help develop the core kernel for Linux.
+Thank famed software developer Linus Torvalds for Git, the software that runs at the heart of GitHub. (And while youíre at it, go ahead thank him for the Linux operating system, too.) Git is version control software, which means it manages changes to a project without overwriting any part of that project. And itís not going away anytime soon, particularly since Torvalds and his fellow kernel developers employ Git to help develop the core kernel for Linux.
 
 Why use something like Git? Say you and a coworker are both updating pages on the same website. You make your changes, save them, and upload them back to the website. So far, so good. The problem comes when your coworker is working on the same page as you at the same time. One of you is about to have your work overwritten and erased.
 
-A version control application like Git keeps that from happening. You and your coworker can each upload your revisions to the same page, and Git will save two copies. Later, you can merge your changes together without losing any work along the way. You can even revert to an earlier version at any time, because Git keeps a ‚Äúsnapshot‚Äù of every change ever made.
+A version control application like Git keeps that from happening. You and your coworker can each upload your revisions to the same page, and Git will save two copies. Later, you can merge your changes together without losing any work along the way. You can even revert to an earlier version at any time, because Git keeps a ìsnapshotî of every change ever made.
 
-The problem with Git is that it‚Äôs so ancient that we have to use the command line‚Äîor Terminal if you‚Äôre a Mac user‚Äîin order to access it, typing in snippets of code like ‚Äò90s hackers. This can be a difficult proposition for modern computer users. That‚Äôs where GitHub comes in.
+The problem with Git is that itís so ancient that we have to use the command lineóor Terminal if youíre a Mac useróin order to access it, typing in snippets of code like ë90s hackers. This can be a difficult proposition for modern computer users. Thatís where GitHub comes in.
 
 
 The author's Terminal screen on a Mac.
 GitHub makes Git easier to use in two ways. First, if you download the GitHub software to your computer, it provides a visual interface to help you manage your version-controlled projects locally. Second, creating an account on GitHub.com brings your version-controlled projects to the Web, and ties in social network features for good measure.
 
-You can browse other GitHub users‚Äô projects, and even download copies for yourself to alter and learn from. Other users can do the same with your public projects, and even spot errors and suggest fixes. Either way, no data is lost because Git saves a ‚Äúsnapshot‚Äù of every change.
+You can browse other GitHub usersí projects, and even download copies for yourself to alter and learn from. Other users can do the same with your public projects, and even spot errors and suggest fixes. Either way, no data is lost because Git saves a ìsnapshotî of every change.
 
-While it‚Äôs possible to use GitHub without learning Git, there‚Äôs a big difference between using and understanding. Before I figured out Git I could use GitHub, but I didn‚Äôt really understand why. In this tutorial, we‚Äôre going to learn to use Git on the command line.
+While itís possible to use GitHub without learning Git, thereís a big difference between using and understanding. Before I figured out Git I could use GitHub, but I didnít really understand why. In this tutorial, weíre going to learn to use Git on the command line.
 
 Words People Use When They Talk About Git
-In this tutorial, there are a few words I‚Äôm going to use repeatedly, none of which I‚Äôd heard before I started learning. Here‚Äôs the big ones:
+In this tutorial, there are a few words Iím going to use repeatedly, none of which Iíd heard before I started learning. Hereís the big ones:
 
-Command Line: The computer program we use to input Git commands. On a Mac, it‚Äôs called Terminal. On a PC, it‚Äôs a non-native program that you download when you download Git for the first time (we‚Äôll do that in the next section). In both cases, you type text-based commands, known as prompts, into the screen, instead of using a mouse.
+Command Line: The computer program we use to input Git commands. On a Mac, itís called Terminal. On a PC, itís a non-native program that you download when you download Git for the first time (weíll do that in the next section). In both cases, you type text-based commands, known as prompts, into the screen, instead of using a mouse.
 
-Repository: A directory or storage space where your projects can live. Sometimes GitHub users shorten this to ‚Äúrepo.‚Äù It can be local to a folder on your computer, or it can be a storage space on GitHub or another online host. You can keep code files, text files, image files, you name it, inside a repository.
+Repository: A directory or storage space where your projects can live. Sometimes GitHub users shorten this to ìrepo.î It can be local to a folder on your computer, or it can be a storage space on GitHub or another online host. You can keep code files, text files, image files, you name it, inside a repository.
 
-Version Control: Basically, the purpose Git was designed to serve. When you have a Microsoft Word file, you either overwrite every saved file with a new save, or you save multiple versions. With Git, you don‚Äôt have to. It keeps ‚Äúsnapshots‚Äù of every point in time in the project‚Äôs history, so you can never lose or overwrite it.
+Version Control: Basically, the purpose Git was designed to serve. When you have a Microsoft Word file, you either overwrite every saved file with a new save, or you save multiple versions. With Git, you donít have to. It keeps ìsnapshotsî of every point in time in the projectís history, so you can never lose or overwrite it.
 
-Commit: This is the command that gives Git its power. When you commit, you are taking a ‚Äúsnapshot‚Äù of your repository at that point in time, giving you a checkpoint to which you can reevaluate or restore your project to any previous state.
+Commit: This is the command that gives Git its power. When you commit, you are taking a ìsnapshotî of your repository at that point in time, giving you a checkpoint to which you can reevaluate or restore your project to any previous state.
 
-Branch: How do multiple people work on a project at the same time without Git getting them confused? Usually, they ‚Äúbranch off‚Äù of the main project with their own versions full of changes they themselves have made. After they‚Äôre done, it‚Äôs time to ‚Äúmerge‚Äù that branch back with the ‚Äúmaster,‚Äù the main directory of the project.
+Branch: How do multiple people work on a project at the same time without Git getting them confused? Usually, they ìbranch offî of the main project with their own versions full of changes they themselves have made. After theyíre done, itís time to ìmergeî that branch back with the ìmaster,î the main directory of the project.
 
 Git-Specific Commands
-Since Git was designed with a big project like Linux in mind, there are a lot of Git commands. However, to use the basics of Git, you‚Äôll only need to know a few terms. They all begin the same way, with the word ‚Äúgit.‚Äù
+Since Git was designed with a big project like Linux in mind, there are a lot of Git commands. However, to use the basics of Git, youíll only need to know a few terms. They all begin the same way, with the word ìgit.î
 
-git init: Initializes a new Git repository. Until you run this command inside a repository or directory, it‚Äôs just a regular folder. Only after you input this does it accept further Git commands.
+git init: Initializes a new Git repository. Until you run this command inside a repository or directory, itís just a regular folder. Only after you input this does it accept further Git commands.
 
-git config: Short for ‚Äúconfigure,‚Äù this is most useful when you‚Äôre setting up Git for the first time.
+git config: Short for ìconfigure,î this is most useful when youíre setting up Git for the first time.
 
-git help: Forgot a command? Type this into the command line to bring up the 21 most common git commands. You can also be more specific and type ‚Äúgit help init‚Äù or another term to figure out how to use and configure a specific git command.
+git help: Forgot a command? Type this into the command line to bring up the 21 most common git commands. You can also be more specific and type ìgit help initî or another term to figure out how to use and configure a specific git command.
 
-git status: Check the status of your repository. See which files are inside it, which changes still need to be committed, and which branch of the repository you‚Äôre currently working on.
+git status: Check the status of your repository. See which files are inside it, which changes still need to be committed, and which branch of the repository youíre currently working on.
 
-git add: This does not add new files to your repository. Instead, it brings new files to Git‚Äôs attention. After you add files, they‚Äôre included in Git‚Äôs ‚Äúsnapshots‚Äù of the repository.
+git add: This does not add new files to your repository. Instead, it brings new files to Gitís attention. After you add files, theyíre included in Gitís ìsnapshotsî of the repository.
 
-git commit: Git‚Äôs most important command. After you make any sort of change, you input this in order to take a ‚Äúsnapshot‚Äù of the repository. Usually it goes git commit -m ‚ÄúMessage here.‚Äù The -m indicates that the following section of the command should be read as a message.
+git commit: Gitís most important command. After you make any sort of change, you input this in order to take a ìsnapshotî of the repository. Usually it goes git commit -m ìMessage here.î The -m indicates that the following section of the command should be read as a message.
 
-git branch: Working with multiple collaborators and want to make changes on your own? This command will let you build a new branch, or timeline of commits, of changes and file additions that are completely your own. Your title goes after the command. If you wanted a new branch called ‚Äúcats,‚Äù you‚Äôd type git branch cats.
+git branch: Working with multiple collaborators and want to make changes on your own? This command will let you build a new branch, or timeline of commits, of changes and file additions that are completely your own. Your title goes after the command. If you wanted a new branch called ìcats,î youíd type git branch cats.
 
-git checkout: Literally allows you to ‚Äúcheck out‚Äù a repository that you are not currently inside. This is a navigational command that lets you move to the repository you want to check. You can use this command as git checkout master to look at the master branch, or git checkout cats to look at another branch.
+git checkout: Literally allows you to ìcheck outî a repository that you are not currently inside. This is a navigational command that lets you move to the repository you want to check. You can use this command as git checkout master to look at the master branch, or git checkout cats to look at another branch.
 
-git merge: When you‚Äôre done working on a branch, you can merge your changes back to the master branch, which is visible to all collaborators. git merge cats would take all the changes you made to the ‚Äúcats‚Äù branch and add them to the master.
+git merge: When youíre done working on a branch, you can merge your changes back to the master branch, which is visible to all collaborators. git merge cats would take all the changes you made to the ìcatsî branch and add them to the master.
 
-git push: If you‚Äôre working on your local computer, and want your commits to be visible online on GitHub as well, you ‚Äúpush‚Äù the changes up to GitHub with this command.
+git push: If youíre working on your local computer, and want your commits to be visible online on GitHub as well, you ìpushî the changes up to GitHub with this command.
 
-git pull: If you‚Äôre working on your local computer and want the most up-to-date version of your repository to work with, you ‚Äúpull‚Äù the changes down from GitHub with this command.
+git pull: If youíre working on your local computer and want the most up-to-date version of your repository to work with, you ìpullî the changes down from GitHub with this command.
 
 Setting Up GitHub And Git For The First Time
 
 GitHub's signup page.
-First, you‚Äôll need to sign up for an account on GitHub.com. It‚Äôs as simple as signing up for any other social network. Keep the email you picked handy; we‚Äôll be referencing it again soon.
+First, youíll need to sign up for an account on GitHub.com. Itís as simple as signing up for any other social network. Keep the email you picked handy; weíll be referencing it again soon.
 
-You could stop there and GitHub would work fine. But if you want to work on your project on your local computer, you need to have Git installed. In fact, GitHub won‚Äôt work on your local computer if you don‚Äôt install Git. Install Git for Windows, Mac or Linux as needed.
+You could stop there and GitHub would work fine. But if you want to work on your project on your local computer, you need to have Git installed. In fact, GitHub wonít work on your local computer if you donít install Git. Install Git for Windows, Mac or Linux as needed.
 
 
 http://git-scm.com/, where you download Git.
-Now it‚Äôs time to go over to the command line. On Windows, that means starting the Git Bash app you just installed, and on OS X, it‚Äôs regular old Terminal. It‚Äôs time to introduce yourself to Git. Type in the following code:
+Now itís time to go over to the command line. On Windows, that means starting the Git Bash app you just installed, and on OS X, itís regular old Terminal. Itís time to introduce yourself to Git. Type in the following code:
 
 git config --global user.name "Your Name Here"
-Of course, you‚Äôll need to replace ‚ÄúYour Name Here‚Äù with your own name in quotations. It can be your legal name, your online handle, anything. Git doesn‚Äôt care, it just needs to know to whom to credit commits and future projects.
+Of course, youíll need to replace ìYour Name Hereî with your own name in quotations. It can be your legal name, your online handle, anything. Git doesnít care, it just needs to know to whom to credit commits and future projects.
 
-Next, tell it your email and make sure it‚Äôs the same email you used when you signed up for a GitHub.com account just a moment ago. Do it like this:
+Next, tell it your email and make sure itís the same email you used when you signed up for a GitHub.com account just a moment ago. Do it like this:
 
 git config --global user.email "your_email@youremail.com"
-That‚Äôs all you need to do to get started using Git on your computer. However, since you did set up a GitHub.com account, it‚Äôs likely you don‚Äôt just want to manage your project locally, but also online. If you want you can also set up Git so it doesn‚Äôt ask you to log in to your GitHub.com account every time you want to talk to it. For the purposes of this tutorial, it isn‚Äôt a big deal since we‚Äôll only be talking to it once. The full tutorial to do this, however, is located on GitHub.
+Thatís all you need to do to get started using Git on your computer. However, since you did set up a GitHub.com account, itís likely you donít just want to manage your project locally, but also online. If you want you can also set up Git so it doesnít ask you to log in to your GitHub.com account every time you want to talk to it. For the purposes of this tutorial, it isnít a big deal since weíll only be talking to it once. The full tutorial to do this, however, is located on GitHub.
 
 
 Baby's first Git commands.
 Creating Your Online Repository
-Now that you‚Äôre all set up, it‚Äôs time to create a place for your project to live. Both Git and GitHub refer to this as a repository, or ‚Äúrepo‚Äù for short, a digital directory or storage space where you can access your project, its files, and all the versions of its files that Git saves.
+Now that youíre all set up, itís time to create a place for your project to live. Both Git and GitHub refer to this as a repository, or ìrepoî for short, a digital directory or storage space where you can access your project, its files, and all the versions of its files that Git saves.
 
 Go back to GitHub.com and click the tiny book icon next to your username. Or, go to the new repository page if all the icons look the same. Give your repository a short, memorable name. Go ahead and make it public just for kicks; why hide your attempt to learn GitHub?
 
 
 Creating a new repository on GitHub.
-Don‚Äôt worry about clicking the checkbox next to ‚ÄúInitialize this repository with a README.‚Äù A Readme file is usually a text file that explains a bit about the project. But we can make our own Readme file locally for practice.
+Donít worry about clicking the checkbox next to ìInitialize this repository with a README.î A Readme file is usually a text file that explains a bit about the project. But we can make our own Readme file locally for practice.
 
-Click the green ‚ÄúCreate Repository‚Äù button and you‚Äôre set. You now have an online space for your project to live in.
+Click the green ìCreate Repositoryî button and youíre set. You now have an online space for your project to live in.
 
 Creating Your Local Repository
-So we just made a space for your project to live online, but that‚Äôs not where you‚Äôll be working on it. The bulk of your work is going to be done on your computer. So we need to actually mirror that repository we just made as a local directory.
+So we just made a space for your project to live online, but thatís not where youíll be working on it. The bulk of your work is going to be done on your computer. So we need to actually mirror that repository we just made as a local directory.
 
-This‚Äîwhere we do some heavy command line typing‚Äîis the part of every Git tutorial that really trips me up, so I‚Äôm going to go tediously, intelligence-insultingly slow.
+Thisówhere we do some heavy command line typingóis the part of every Git tutorial that really trips me up, so Iím going to go tediously, intelligence-insultingly slow.
 
 First type:
 
 mkdir ~/MyProject
-mkdir is short for make directory. It‚Äôs not actually a Git command, but a general navigational command from the time before visual computer interfaces. The ~/ ensures that we‚Äôre building the repository at the top level of your computer‚Äôs file structure, instead of stuck inside some other directory that would be hard to find later. Actually, if you type ~/ into your browser window, it‚Äôll bring up your local computer‚Äôs top level directory. For me, using Chrome on a Mac, it displays my Users folder.
+mkdir is short for make directory. Itís not actually a Git command, but a general navigational command from the time before visual computer interfaces. The ~/ ensures that weíre building the repository at the top level of your computerís file structure, instead of stuck inside some other directory that would be hard to find later. Actually, if you type ~/ into your browser window, itíll bring up your local computerís top level directory. For me, using Chrome on a Mac, it displays my Users folder.
 
 Also, notice that I called it MyProject, the very same name I called my GitHub repository that we made earlier. Keep your name consistent, too.
 
 Next, type:
 
 cd ~/MyProject
-cd stands for change directory, and it‚Äôs also a navigational command. We just made a directory, and now we want to switch over to that directory and go inside it. Once we type this command, we are transported inside MyProject.
+cd stands for change directory, and itís also a navigational command. We just made a directory, and now we want to switch over to that directory and go inside it. Once we type this command, we are transported inside MyProject.
 
-Now we‚Äôre finally using a Git command. For your next line, type:
+Now weíre finally using a Git command. For your next line, type:
 
 git init
-You know you‚Äôre using a Git command because it always begins with git. init stands for ‚Äúinitialize.‚Äù Remember how the previous two commands we typed were general command-line terms? When we type this code in, it tells the computer to recognize this directory as a local Git repository. If you open up the folder, it won‚Äôt look any different, because this new Git directory is a hidden file inside the dedicated repository.
+You know youíre using a Git command because it always begins with git. init stands for ìinitialize.î Remember how the previous two commands we typed were general command-line terms? When we type this code in, it tells the computer to recognize this directory as a local Git repository. If you open up the folder, it wonít look any different, because this new Git directory is a hidden file inside the dedicated repository.
 
 
 Creating a local Git repository in three steps.
-However, your computer now realizes this directory is Git-ready, and you can start inputting Git commands. Now you‚Äôve got both an online and a local repo for your project to live inside. In Part 2 of this series, you will learn how to make your first commit to local and GitHub repositories, and learn about more great GitHub resources.
+However, your computer now realizes this directory is Git-ready, and you can start inputting Git commands. Now youíve got both an online and a local repo for your project to live inside. In Part 2 of this series, you will learn how to make your first commit to local and GitHub repositories, and learn about more great GitHub resources.
 
 (See also: GitHub For Beginners: Commit, Push And Go)
 
@@ -164,23 +182,23 @@ TAGS: GITHUB, HOW TO, VERSION CONTROL
 Facebook Comments
 
 RELATED POSTS
-Twitter Is Wooing Developers‚ÄîWill They Forgive And Forget?
-CEO Jack Dorsey promises ‚Äútransparency.‚Äù
+Twitter Is Wooing DevelopersóWill They Forgive And Forget?
+CEO Jack Dorsey promises ìtransparency.î
 
 OWEN THOMAS
 Windows 10 Suffers Last-Minute Control Panel Bug
 More frustration on an already confusing feature.
 
 ADRIANA LEE
-Slack‚Äôs New Button Wants To Connect All Your Work Shares
+Slackís New Button Wants To Connect All Your Work Shares
 Integration with the team chat platform just got a lot easier.
 
 DAVID NIELD
 The Future Of Virtual Reality Lies Beyond Gaming
-Guest author Richard MacManus is the founder of ReadWrite. This article originally appeared in his Augment Intelligence newsletter.  If you‚Äôre thinking that virtual reality (VR) is all about gaming, then think again.  Are you a sports fan? The US Open Golf Tournament was livestreamed in VR last year. A music fan? Paul McCartney, Taylor Swift, Jack
+Guest author Richard MacManus is the founder of ReadWrite. This article originally appeared in his Augment Intelligence newsletter.  If youíre thinking that virtual reality (VR) is all about gaming, then think again.  Are you a sports fan? The US Open Golf Tournament was livestreamed in VR last year. A music fan? Paul McCartney, Taylor Swift, Jack
 
 RICHARD MACMANUS
-Pinterest Opens Its Doors‚ÄîAnd Its API‚ÄîTo Developers At Last
+Pinterest Opens Its DoorsóAnd Its APIóTo Developers At Last
 Coders, start your integrations.
 
 DAVID NIELD
@@ -206,7 +224,7 @@ CONNECTED DEVICES
 How to turn hardware into IoT by simplifying and securing connectivity
 CJ BOGUSZEWSKI APRIL 21, 2017
 CONNECTED DEVICES
-Are we going from ‚ÄúArtificial Intelligence‚Äù to ‚ÄúAugmented Intelligence?‚Äù
+Are we going from ìArtificial Intelligenceî to ìAugmented Intelligence?î
 SCOTT NOTEBOOM APRIL 20, 2017
 CONNECTED DEVICES
 RW Webinar: Rising demand for connectivity drives IoT advances in healthcare
@@ -244,7 +262,7 @@ How to turn hardware into IoT by simplifying and securing connectivity
 CJ BOGUSZEWSKI
 Connected Devices, Industrial
  Retro/Vintage robotic toy. 3D render, digital image.	
-Are we going from ‚ÄúArtificial Intelligence‚Äù to ‚ÄúAugmented Intelligence?‚Äù
+Are we going from ìArtificial Intelligenceî to ìAugmented Intelligence?î
 
 SCOTT NOTEBOOM
 Connected Devices, Industrial, Smart Cities
